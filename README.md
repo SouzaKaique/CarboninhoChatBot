@@ -37,6 +37,11 @@ O Carboninho conta com agentes de IA especializados para:
 🧪 Está estudando algum tema específico?  
 ⚠️ Quer ajuda com segurança no laboratório?  
 
+## 🎥 Exemplo de Uso do Carboninho
+
+Você pode baixar e assistir ao vídeo de demonstração do Carboninho:
+
+[📥 Baixar vídeo de exemplo (MP4)](videos/.gitkeep)
 
 ## 💡 Estrutura de Agentes
 
@@ -47,6 +52,7 @@ O Carboninho conta com agentes de IA especializados para:
 | 🧫 `agente_planeja_experimento_virtual` | Planeja experimentos simulados com base no objetivo do aluno   |
 | 📐 `agente_calcula_quimica`    | Fornece códigos e métodos para cálculos químicos                |
 | 🧯 `agente_seguranca_laboratorio` | Traz cuidados e EPIs para compostos e procedimentos             |
+| 🧯 `agente_resumo_final` | Retorna um resumo de todo o conteúdo consultado pelo usuário             |
 
 ## 👨‍🏫 Sobre a Imersão IA da Alura
 Este projeto nasceu durante a Imersão IA da Alura, um evento gratuito e intensivo para explorar o uso de IA generativa em Python.
