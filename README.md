@@ -41,7 +41,7 @@ O Carboninho conta com agentes de IA especializados para:
 
 Você pode baixar e assistir ao vídeo de demonstração do Carboninho:
 
-[📥 Baixar vídeo de exemplo (MP4)](videos/.gitkeep)
+[📥 Baixar vídeo de exemplo (MP4)](./videos/Carboninho_Video.mp4)
 
 ## 💡 Estrutura de Agentes
 
